@@ -1,0 +1,6 @@
+data/
+data_raw/
+__pycache__/
+*.pyc
+.env
+.DS_Store
